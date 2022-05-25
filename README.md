@@ -1,5 +1,6 @@
-# Helpful-Resources
-## Here is a list of links that I find particularly useful 
+# Useful resources for my PhD in nuclear physics
+
+## Here are a list of links 
 
 ### Nuclear Data / Programs
 <https://www-nds.iaea.org>
